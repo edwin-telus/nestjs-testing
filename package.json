@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Coding exercise test cases",
   "scripts": {
-    "test": "jest",
+    "test": "jest --silent",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
   },
   "devDependencies": {

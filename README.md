@@ -1,4 +1,8 @@
 # nestjs-testing
 Nest JS Testing
 
-## To Start the testing use: npm test
+### NPM Install
+Run `npm install`
+
+### Run application locally
+    npm test
