@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bren Pitcaithly",
+    "favoriteFood": "Pad Thai",
+    "favoriteMovie": "Fight Club",
+    "status": "Inactive"
+  },
+  {
+    "name": "Feliks Lamball",
+    "favoriteFood": "Cupcake",
+    "favoriteMovie": "The Babadook",
+    "status": "Active"
+  },
+  {
+    "name": "Hedwig Stuck",
+    "favoriteFood": "Dim Sum",
+    "favoriteMovie": "The Sixth Sense",
+    "status": "Inactive"
+  },
+  {
+    "name": "Dita Swindall",
+    "favoriteFood": "Curry",
+    "favoriteMovie": "The Prestige",
+    "status": "Active"
+  },
+  {
+    "name": "Rockwell Caughan",
+    "favoriteFood": "French Fries",
+    "favoriteMovie": "Fight Club",
+    "status": "Inactive"
+  },
+  {
+    "name": "Alfy Petrozzi",
+    "favoriteFood": "Cupcake",
+    "favoriteMovie": "The Empire Strikes Back",
+    "status": "Active"
+  },
+  {
+    "name": "Marven Roskams",
+    "favoriteFood": "Donuts",
+    "favoriteMovie": "The Blair Witch Project",
+    "status": "Inactive"
+  },
+  {
+    "name": "Davin Redolfi",
+    "favoriteFood": "Burger",
+    "favoriteMovie": "The Silence of the Lambs",
+    "status": "Active"
+  },
+  {
+    "name": "Jena Titmus",
+    "favoriteFood": "Gyoza",
+    "favoriteMovie": "The Shape of Water",
+    "status": "Active"
+  },
+  {
+    "name": "Kelcy Clines",
+    "favoriteFood": "Popcorn",
+    "favoriteMovie": "The Revenant",
+    "status": "Active"
+  }
+]
